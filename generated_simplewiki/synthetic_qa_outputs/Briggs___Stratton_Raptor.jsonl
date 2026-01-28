@@ -1,0 +1,1 @@
+{"doc_name": "Briggs___Stratton_Raptor", "chunk_id": 0, "question": "What is the Briggs & Stratton Raptor series?", "answer": "A line of single-cylinder, four-cycle flathead engines.", "method": "synthetic_qa", "stats": {"prompt_length_toks": 157, "prompt_length_chars": 767, "completion_length_toks": 26, "completion_length_chars": 102}}
