@@ -1510,3 +1510,280 @@
 {"doc_name": "AMAZON_2019_10K", "chunk_id": 17, "question": "WHAT IS THE NAME OF THE EXHIBIT THAT CONTAINS THE CERTIFICATION?", "answer": "EXHIBIT 32.2", "method": "synthetic_qa"}
 {"doc_name": "AMAZON_2019_10K", "chunk_id": 17, "question": "WHAT IS THE NAME OF THE OFFICE THAT WILL RETAIN A SIGNED ORIGINAL OF THE WRITTEN STATEMENT?", "answer": "THE COMPANY", "method": "synthetic_qa"}
 {"doc_name": "AMAZON_2019_10K", "chunk_id": 17, "question": "WHAT IS THE NAME OF THE OFFICE THAT WILL FURNISH A SIGNED ORIGINAL OF THE WRITTEN STATEMENT UPON REQUEST?", "answer": "THE SEC OR ITS STAFF", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the name of the company that filed a petition with the United States International Trade Commission in May 2019?", "answer": "A: Neodron Ltd.", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the name of the petition filed by Neodron Ltd. with the United States International Trade Commission?", "answer": "A: A petition requesting that the International Trade Commission commence an investigation into the sale of Amazon Fire HD 10 tablets and certain Dell, Hewlett Packard, Lenovo, Microsoft, Motorola, and Samsung devices", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What are the U.S. Patent Nos. alleged to be infringed by the accused devices in Neodron’s petition?", "answer": "A: U.S. Patent Nos. 8,422,173, 8,791,910, 9,024,790, and 9,372,580", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the title of U.S. Patent No. 8,422,173?", "answer": "A: “Capacitive Position Sensor”", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the title of U.S. Patent No. 8,791,910?", "answer": "A: “Capacitive Keyboard With Position-Dependent Reduced Keying Ambiguity”", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the title of U.S. Patent No. 9,024,790?", "answer": "A: “Capacitive Keyboard With Non-Locking Reduced Keying Ambiguity”", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the title of U.S. Patent No. 9,372,580?", "answer": "A: “Enhanced Touch Detection Methods”", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What type of relief is Neodron seeking in its petition to the United States International Trade Commission?", "answer": "A: A limited exclusion order preventing the importation of the accused devices into the United States", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: When did Neodron withdraw its infringement allegations against Amazon with regard to U.S. Patent No. 9,372,580?", "answer": "A: In December 2019", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What court did Neodron file a complaint against Amazon.com, Inc. in?", "answer": "A: The United States District Court for the Western District of Texas", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: When did Neodron file its first complaint against Amazon.com, Inc.?", "answer": "A: In May 2019", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What patents does the May 2019 complaint allege Amazon’s Fire HD 10 tablet infringes?", "answer": "A: U.S. Patent Nos. 8,422,173 and 9,372,580", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What relief does the May 2019 complaint seek?", "answer": "A: An unspecified amount of damages and interest, a permanent injunction, and enhanced damages", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: When did Neodron file a second complaint against Amazon.com, Inc.?", "answer": "A: In June 2019", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What patents does the June 2019 complaint allege Amazon’s Fire HD 10 tablet infringes?", "answer": "A: U.S. Patent Nos. 9,823,784, 9,489,072, and 8,502,547", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What relief does the June 2019 complaint seek?", "answer": "A: An unspecified amount of damages and interest, a permanent injunction, and enhanced damages", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the company’s stance on the allegations of wrongdoing in the legal proceedings?", "answer": "A: We dispute the allegations of wrongdoing and intend to defend ourselves vigorously in these matters", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the total number of shares of preferred stock authorized?", "answer": "A: 500 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: Were any preferred shares outstanding for any year presented?", "answer": "A: No", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the total number of common shares outstanding plus shares underlying outstanding stock awards as of December 31, 2017?", "answer": "A: 504 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the total number of common shares outstanding plus shares underlying outstanding stock awards as of December 31, 2018?", "answer": "A: 507 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the total number of common shares outstanding plus shares underlying outstanding stock awards as of December 31, 2019?", "answer": "A: 512 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the amount of common stock authorized for repurchase by the Board of Directors in February 2016?", "answer": "A: $5.0 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: Did any common stock repurchases occur in 2017?", "answer": "A: No", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: Did any common stock repurchases occur in 2018?", "answer": "A: No", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: Did any common stock repurchases occur in 2019?", "answer": "A: No", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the general service term for vesting of restricted stock unit awards and stock options?", "answer": "A: Between two and five years", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for cost of sales in 2017?", "answer": "A: $47 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for cost of sales in 2018?", "answer": "A: $73 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for cost of sales in 2019?", "answer": "A: $149 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for fulfillment in 2017?", "answer": "A: $911 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for fulfillment in 2018?", "answer": "A: $1,121 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for fulfillment in 2019?", "answer": "A: $1,182 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for technology and content in 2017?", "answer": "A: $2,305 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for technology and content in 2018?", "answer": "A: $2,888 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for technology and content in 2019?", "answer": "A: $3,725 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for marketing in 2017?", "answer": "A: $511 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for marketing in 2018?", "answer": "A: $769 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for marketing in 2019?", "answer": "A: $1,135 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for general and administrative in 2017?", "answer": "A: $441 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for general and administrative in 2018?", "answer": "A: $567 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the stock-based compensation expense for general and administrative in 2019?", "answer": "A: $673 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the total stock-based compensation expense in 2017?", "answer": "A: $4,215 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the total stock-based compensation expense in 2018?", "answer": "A: $5,418 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the total stock-based compensation expense in 2019?", "answer": "A: $6,864 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the tax benefit from stock-based compensation in 2017?", "answer": "A: $860 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the tax benefit from stock-based compensation in 2018?", "answer": "A: $1.1 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the tax benefit from stock-based compensation in 2019?", "answer": "A: $1.4 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the weighted average fair value of restricted stock units outstanding as of January 1, 2017?", "answer": "A: $506", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units outstanding as of January 1, 2017?", "answer": "A: 19.8 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units granted in 2017?", "answer": "A: 8.9 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units vested in 2017?", "answer": "A: 6.8 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units forfeited in 2017?", "answer": "A: 1.8 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units outstanding as of December 31, 2017?", "answer": "A: 20.1 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units granted in 2018?", "answer": "A: 5.0 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units vested in 2018?", "answer": "A: 7.1 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units forfeited in 2018?", "answer": "A: 2.1 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units outstanding as of December 31, 2018?", "answer": "A: 15.9 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units granted in 2019?", "answer": "A: 6.7 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units vested in 2019?", "answer": "A: 6.6 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units forfeited in 2019?", "answer": "A: 1.7 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the number of restricted stock units outstanding as of December 31, 2019?", "answer": "A: 14.3 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the weighted average fair value of restricted stock units outstanding as of December 31, 2019?", "answer": "A: $1,458", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the scheduled vesting for restricted stock units in 2020?", "answer": "A: 6.0 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the scheduled vesting for restricted stock units in 2021?", "answer": "A: 5.1 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the scheduled vesting for restricted stock units in 2022?", "answer": "A: 2.1 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the scheduled vesting for restricted stock units in 2023?", "answer": "A: 1.0 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the scheduled vesting for restricted stock units in 2024?", "answer": "A: 0.1 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the total scheduled vesting for restricted stock units as of December 31, 2019?", "answer": "A: 14.3 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the net unrecognized compensation cost related to unvested stock-based compensation arrangements as of December 31, 2019?", "answer": "A: $8.8 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What percentage of the net unrecognized compensation cost is expected to be expensed in the next twelve months?", "answer": "A: Approximately half", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the weighted-average recognition period for unvested stock-based compensation as of December 31, 2019?", "answer": "A: 1.1 years", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the estimated forfeiture rate as of December 31, 2017?", "answer": "A: 28%", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the estimated forfeiture rate as of December 31, 2018?", "answer": "A: 27%", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the estimated forfeiture rate as of December 31, 2019?", "answer": "A: 27%", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the fair value of restricted stock units that vested in 2017?", "answer": "A: $6.8 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the fair value of restricted stock units that vested in 2018?", "answer": "A: $11.4 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the fair value of restricted stock units that vested in 2019?", "answer": "A: $11.7 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: How many common shares are available for future issuance to employees as of December 31, 2019?", "answer": "A: 108 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the net tax provision in 2017?", "answer": "A: $769 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the net tax provision in 2018?", "answer": "A: $1.2 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the net tax provision in 2019?", "answer": "A: $2.4 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the cash taxes paid, net of refunds, in 2017?", "answer": "A: $957 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the cash taxes paid, net of refunds, in 2018?", "answer": "A: $1.2 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the cash taxes paid, net of refunds, in 2019?", "answer": "A: $881 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: When was the U.S. Tax Act signed into law?", "answer": "A: December 22, 2017", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the new U.S. statutory corporate tax rate after the U.S. Tax Act?", "answer": "A: 21%", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the previous U.S. statutory corporate tax rate before the U.S. Tax Act?", "answer": "A: 35%", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What did the U.S. Tax Act eliminate?", "answer": "A: Certain deductions", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What did the U.S. Tax Act impose?", "answer": "A: A mandatory one-time tax on accumulated earnings of foreign subsidiaries", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What did the U.S. Tax Act introduce?", "answer": "A: New tax regimes", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: How did the U.S. Tax Act change foreign earnings taxation?", "answer": "A: It changed how foreign earnings are subject to U.S. tax", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What did the U.S. Tax Act enhance and extend?", "answer": "A: Accelerated depreciation deductions by allowing full expensing of qualified property, primarily equipment, through 2022", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the provisional tax benefit for the impact of the U.S. Tax Act as of December 31, 2017?", "answer": "A: Approximately $789 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the primary component of the provisional tax benefit from the U.S. Tax Act?", "answer": "A: The remeasurement of federal net deferred tax liabilities resulting from the permanent reduction in the U.S. statutory corporate tax rate to 21% from 35%", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the amount of the one-time tax on accumulated earnings of foreign subsidiaries under the U.S. Tax Act?", "answer": "A: Not material", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the provision for income taxes, net in 2017?", "answer": "A: $769 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the provision for income taxes, net in 2018?", "answer": "A: $1,197 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the provision for income taxes, net in 2019?", "answer": "A: $2,374 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the U.S. federal current tax expense in 2017?", "answer": "A: $ (137) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the U.S. federal deferred tax expense in 2017?", "answer": "A: $ (202) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the U.S. federal total tax expense in 2017?", "answer": "A: $ (339) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the U.S. state current tax expense in 2017?", "answer": "A: $211 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the U.S. state deferred tax expense in 2017?", "answer": "A: $ (26) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the U.S. state total tax expense in 2017?", "answer": "A: $185 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the international current tax expense in 2017?", "answer": "A: $724 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the international deferred tax expense in 2017?", "answer": "A: $199 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the international total tax expense in 2017?", "answer": "A: $923 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the U.S. income before income taxes in 2017?", "answer": "A: $5,630 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the international income before income taxes in 2017?", "answer": "A: $ (1,824) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the total income before income taxes in 2017?", "answer": "A: $3,806 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the income taxes computed at the federal statutory rate in 2017?", "answer": "A: $1,332 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of tax impact of foreign earnings in 2017?", "answer": "A: $1,178 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of state taxes, net of federal benefits in 2017?", "answer": "A: $114 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of tax credits in 2017?", "answer": "A: $ (220) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of stock-based compensation in 2017?", "answer": "A: $ (917) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of the 2017 impact of the U.S. Tax Act in 2017?", "answer": "A: $ (789) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of other, net in 2017?", "answer": "A: $71 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of tax impact of foreign earnings in 2018?", "answer": "A: $119 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of state taxes, net of federal benefits in 2018?", "answer": "A: $263 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of tax credits in 2018?", "answer": "A: $ (419) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of stock-based compensation in 2018?", "answer": "A: $ (1,086) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of the 2018 impact of the U.S. Tax Act in 2018?", "answer": "A: $ (157) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of other, net in 2018?", "answer": "A: $112 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of tax impact of foreign earnings in 2019?", "answer": "A: $381 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of state taxes, net of federal benefits in 2019?", "answer": "A: $221 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of tax credits in 2019?", "answer": "A: $ (466) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of stock-based compensation in 2019?", "answer": "A: $ (850) million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the effect of other, net in 2019?", "answer": "A: $153 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the excess tax benefit from stock-based compensation in 2017?", "answer": "A: $1.3 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the excess tax benefit from stock-based compensation in 2018?", "answer": "A: $1.6 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the excess tax benefit from stock-based compensation in 2019?", "answer": "A: $1.4 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What was the valuation allowance recognized in Q2 2017 for Luxembourg?", "answer": "A: $600 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the total amount of gross tax contingencies as of December 31, 2017?", "answer": "A: $1,710 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 13, "question": "Q: What is the total amount of gross tax contingencies as of December 31, 2018?", "answer": "A: $2,309 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What does the provision for income taxes include?", "answer": "A: the impact of reserve provisions and changes to reserves that are considered appropriate", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross tax contingencies amount as of December 31, 2017?", "answer": "A: $1,710", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross tax contingencies amount as of December 31, 2018?", "answer": "A: $2,309", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross tax contingencies amount as of December 31, 2019?", "answer": "A: $3,414", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross increase to tax positions in prior periods for 2017?", "answer": "A: $223", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross increase to tax positions in prior periods for 2018?", "answer": "A: $164", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross increase to tax positions in prior periods for 2019?", "answer": "A: $216", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross decrease to tax positions in prior periods for 2017?", "answer": "A: $(139)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross decrease to tax positions in prior periods for 2018?", "answer": "A: $(90)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross decrease to tax positions in prior periods for 2019?", "answer": "A: $(181)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross increase to current period tax positions for 2017?", "answer": "A: $518", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross increase to current period tax positions for 2018?", "answer": "A: $1,088", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross increase to current period tax positions for 2019?", "answer": "A: $707", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of settlements with tax authorities in 2018?", "answer": "A: $(36)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of settlements with tax authorities in 2019?", "answer": "A: $(207)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of lapse of statute of limitations in 2017?", "answer": "A: $(3)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of lapse of statute of limitations in 2018?", "answer": "A: $(21)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of lapse of statute of limitations in 2019?", "answer": "A: $(26)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the gross tax contingencies amount as of December 31, 2019?", "answer": "A: $3,923", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of accrued tax contingencies as of December 31, 2019?", "answer": "A: approximately $3.9 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of accrued tax contingencies as of December 31, 2019 that, if fully recognized, would decrease the effective tax rate?", "answer": "A: $2.1 billion", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of accrued interest and penalties, net of federal income tax benefit, as of December 31, 2018?", "answer": "A: $127 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of accrued interest and penalties, net of federal income tax benefit, as of December 31, 2019?", "answer": "A: $131 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of interest and penalties, net of federal income tax benefit, recognized for the year ended December 31, 2017?", "answer": "A: $40 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of interest and penalties, net of federal income tax benefit, recognized for the year ended December 31, 2018?", "answer": "A: $20 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the amount of interest and penalties, net of federal income tax benefit, recognized for the year ended December 31, 2019?", "answer": "A: $4 million", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: Which tax authority is Amazon under examination by for the calendar year 2007 and thereafter?", "answer": "A: the Internal Revenue Service (“IRS”)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the period under examination by the European Commission for tax decisions in Luxembourg?", "answer": "A: May 2006 through June 2014", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the estimated recovery amount announced by the European Commission in October 2017?", "answer": "A: approximately €250 million, plus interest", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What did the European Commission announce on October 4, 2017 regarding tax decisions in Luxembourg?", "answer": "A: determinations by the tax authorities in Luxembourg did not comply with European Union rules on state aid", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What did the European Commission order the Luxembourg tax authorities to do in relation to the recovery amount?", "answer": "A: calculate the actual amount of additional taxes subject to recovery", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What did Luxembourg compute and deposit into escrow in March 2018?", "answer": "A: an initial recovery amount, consistent with the European Commission’s decision", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: When did Luxembourg appeal the European Commission’s decision?", "answer": "A: December 2017", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: When did Amazon appeal the European Commission’s decision?", "answer": "A: May 2018", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What does Amazon believe about the European Commission’s decision?", "answer": "A: the European Commission’s decision to be without merit", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What does Amazon plan to do regarding the European Commission’s decision?", "answer": "A: will continue to defend themselves vigorously in this matter", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: In which jurisdictions is Amazon subject to taxation?", "answer": "A: China, Germany, India, Japan, Luxembourg, and the United Kingdom", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: For which years is Amazon under, or may be subject to, audit or examination in various jurisdictions?", "answer": "A: primarily for 2009 and thereafter", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What may changes in state, federal, and foreign tax laws do to Amazon’s tax contingencies?", "answer": "A: may increase our tax contingencies", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: Is the timing of the resolution of income tax examinations highly uncertain?", "answer": "A: yes", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: Could the amounts ultimately paid upon resolution of income tax examinations differ from the amounts accrued?", "answer": "A: yes", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: Is it reasonably possible that within the next twelve months Amazon will receive additional assessments by various tax authorities?", "answer": "A: yes", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: Could income tax examinations in one or more jurisdictions result in changes to Amazon’s contingencies related to positions on tax filings in years through 2019?", "answer": "A: yes", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What could vary significantly depending on the ultimate timing and nature of any settlements?", "answer": "A: the actual amount of any change", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What cannot Amazon currently provide?", "answer": "A: an estimate of the range of possible outcomes", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: How many segments has Amazon organized its operations into?", "answer": "A: three", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What are the three segments of Amazon’s operations?", "answer": "A: North America, International, and AWS", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: How are operating expenses allocated to segment results?", "answer": "A: based on usage, which is generally reflected in the segment in which the costs are incurred", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: Which operating expenses are allocated to the AWS segment based on usage?", "answer": "A: the majority of technology infrastructure costs", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: Where are the majority of the remaining non-infrastructure technology costs incurred?", "answer": "A: in the U.S.", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: To which segment are the majority of the remaining non-infrastructure technology costs allocated?", "answer": "A: North America segment", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: Are there any internal revenue transactions between reportable segments?", "answer": "A: no", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: How does the company evaluate its business performance and manage its operations?", "answer": "A: through these segments", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What does the North America segment primarily consist of?", "answer": "A: amounts earned from retail sales of consumer products (including from sellers) and subscriptions through North America-focused online and physical stores", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: Does the North America segment include export sales?", "answer": "A: yes", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What does the International segment primarily consist of?", "answer": "A: amounts earned from retail sales of consumer products (including from sellers) and subscriptions through internationally-focused online stores", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: Does the International segment include export sales from internationally-focused online stores to customers in the U.S., Mexico, and Canada?", "answer": "A: yes", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: Does the International segment exclude export sales from North America-focused online stores?", "answer": "A: yes", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What does the AWS segment consist of?", "answer": "A: amounts earned from global sales of compute, storage, database, and other service offerings for start-ups, enterprises, government agencies, and academic institutions", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for the North America segment in 2017?", "answer": "A: $106,110", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for the North America segment in 2018?", "answer": "A: $141,366", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for the North America segment in 2019?", "answer": "A: $170,773", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating expenses amount for the North America segment in 2017?", "answer": "A: $103,273", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating expenses amount for the North America segment in 2018?", "answer": "A: $134,099", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating expenses amount for the North America segment in 2019?", "answer": "A: $163,740", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating income for the North America segment in 2017?", "answer": "A: $2,837", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating income for the North America segment in 2018?", "answer": "A: $7,267", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating income for the North America segment in 2019?", "answer": "A: $7,033", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for the International segment in 2017?", "answer": "A: $54,297", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for the International segment in 2018?", "answer": "A: $65,866", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for the International segment in 2019?", "answer": "A: $74,723", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating expenses amount for the International segment in 2017?", "answer": "A: $57,359", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating expenses amount for the International segment in 2018?", "answer": "A: $68,008", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating expenses amount for the International segment in 2019?", "answer": "A: $76,416", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating income (loss) for the International segment in 2017?", "answer": "A: $(3,062)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating income (loss) for the International segment in 2018?", "answer": "A: $(2,142)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating income (loss) for the International segment in 2019?", "answer": "A: $(1,693)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for the AWS segment in 2017?", "answer": "A: $17,459", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for the AWS segment in 2018?", "answer": "A: $25,655", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for the AWS segment in 2019?", "answer": "A: $35,026", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating expenses amount for the AWS segment in 2017?", "answer": "A: $13,128", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating expenses amount for the AWS segment in 2018?", "answer": "A: $18,359", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating expenses amount for the AWS segment in 2019?", "answer": "A: $25,825", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating income for the AWS segment in 2017?", "answer": "A: $4,331", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating income for the AWS segment in 2018?", "answer": "A: $7,296", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the operating income for the AWS segment in 2019?", "answer": "A: $9,201", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the consolidated net sales amount in 2017?", "answer": "A: $177,866", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the consolidated net sales amount in 2018?", "answer": "A: $232,887", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the consolidated net sales amount in 2019?", "answer": "A: $280,522", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the consolidated operating expenses amount in 2017?", "answer": "A: $173,760", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the consolidated operating expenses amount in 2018?", "answer": "A: $220,466", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the consolidated operating expenses amount in 2019?", "answer": "A: $265,981", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the consolidated operating income in 2017?", "answer": "A: $4,106", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the consolidated operating income in 2018?", "answer": "A: $12,421", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the consolidated operating income in 2019?", "answer": "A: $14,541", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the total non-operating income (expense) in 2017?", "answer": "A: $(300)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the total non-operating income (expense) in 2018?", "answer": "A: $(1,160)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the total non-operating income (expense) in 2019?", "answer": "A: $(565)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the provision for income taxes in 2017?", "answer": "A: $(769)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the provision for income taxes in 2018?", "answer": "A: $(1,197)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the provision for income taxes in 2019?", "answer": "A: $(2,374)", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net income in 2017?", "answer": "A: $3,033", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net income in 2018?", "answer": "A: $10,073", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net income in 2019?", "answer": "A: $11,588", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for online stores in 2017?", "answer": "A: $108,354", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for online stores in 2018?", "answer": "A: $122,987", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for online stores in 2019?", "answer": "A: $141,247", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for physical stores in 2017?", "answer": "A: $5,798", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for physical stores in 2018?", "answer": "A: $17,224", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for physical stores in 2019?", "answer": "A: $17,192", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for third-party seller services in 2017?", "answer": "A: $31,881", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for third-party seller services in 2018?", "answer": "A: $42,745", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for third-party seller services in 2019?", "answer": "A: $53,762", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for subscription services in 2017?", "answer": "A: $9,721", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for subscription services in 2018?", "answer": "A: $14,168", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for subscription services in 2019?", "answer": "A: $19,210", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for AWS in 2017?", "answer": "A: $17,459", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for AWS in 2018?", "answer": "A: $25,655", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for AWS in 2019?", "answer": "A: $35,026", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for other in 2017?", "answer": "A: $4,653", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for other in 2018?", "answer": "A: $10,108", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount for other in 2019?", "answer": "A: $14,085", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to the United States in 2017?", "answer": "A: $120,486", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to the United States in 2018?", "answer": "A: $160,146", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to the United States in 2019?", "answer": "A: $193,636", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to Germany in 2017?", "answer": "A: $16,951", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to Germany in 2018?", "answer": "A: $19,881", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to Germany in 2019?", "answer": "A: $22,232", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to the United Kingdom in 2017?", "answer": "A: $11,372", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to the United Kingdom in 2018?", "answer": "A: $14,524", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to the United Kingdom in 2019?", "answer": "A: $17,527", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to Japan in 2017?", "answer": "A: $11,907", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to Japan in 2018?", "answer": "A: $13,829", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to Japan in 2019?", "answer": "A: $16,002", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to rest of world in 2017?", "answer": "A: $17,150", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to rest of world in 2018?", "answer": "A: $24,507", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the net sales amount attributed to rest of world in 2019?", "answer": "A: $31,125", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the North America segment asset amount as of December 31, 2017?", "answer": "A: $35,844", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the North America segment asset amount as of December 31, 2018?", "answer": "A: $47,251", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the North America segment asset amount as of December 31, 2019?", "answer": "A: $72,277", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the International segment asset amount as of December 31, 2017?", "answer": "A: $18,014", "method": "synthetic_qa"}
+{"doc_name": "AMAZON_2019_10K", "chunk_id": 14, "question": "Q: What is the International segment asset amount as of December 31, 2018?", "answer": "A: $19,923", "method": "synthetic_qa"}
