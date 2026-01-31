@@ -1,0 +1,1 @@
+{"doc_name": "Eremiaphila_bovei", "chunk_id": 0, "question": "WHAT FAMILY DOES EREMIAPHILA BOVEI BELONG TO?", "answer": "EREMIAPHILIDAE", "method": "synthetic_qa", "stats": {"prompt_length_toks": 180, "prompt_length_chars": 835, "completion_length_toks": 23, "completion_length_chars": 60}}
